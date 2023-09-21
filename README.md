@@ -33,6 +33,6 @@ Follow these steps to get the Expense Manager App up and running on your local m
    npm start
    ```
 
-## Contact
+### Contact
 
 If you have any questions or suggestions, please feel free to reach out to us at xOliwkaa69@gmail.com
