@@ -28,12 +28,9 @@ Follow these steps to get the Expense Manager App up and running on your local m
 
 2. Install the project dependencies:
 
-bash
-Copy code
+```bash
 npm install
+```
 Start the development server:
 
-bash
-Copy code
-npm start
-Open your web browser and navigate to http://localhost:3000 to access the Expense Manager App.
+
