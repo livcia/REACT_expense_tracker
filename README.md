@@ -1,5 +1,5 @@
 # Expense Manager App
-
+![Expense Manager Screenshot](https://i.imgur.com/7Fkg7Iu.png)
 The Expense Manager App is a web application built with React that helps you manage your expenses. It provides a user-friendly interface for tracking and analyzing your spending habits over time. One of the key features is a bar chart that visualizes the monthly expenses for a selected year.
 
 ## Features
