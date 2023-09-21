@@ -26,17 +26,9 @@ Follow these steps to get the Expense Manager App up and running on your local m
    git clone https://github.com/livcia/REACT_expense_tracker.git
    cd REACT_expense_tracker
 
-2. Install the project dependencies:
+2. Install the project dependencies and Start the development server:
 
 ```bash
 npm install
+npm start
 ```
-
-3. Start the development server:
-
-```bash
-   npm start
-```
-Open your web browser and navigate to http://localhost:3000 to access the Expense Manager App.
-
-
