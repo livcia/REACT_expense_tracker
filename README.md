@@ -10,11 +10,7 @@ Try the app online: [Live Demo](https://livcia.github.io/REACT_expense_tracker/)
 
 ## Preview Video
 
-Watch the application in action:
-
-[![Expense Manager App Demo](https://img.youtube.com/vi/ULSA8R-rJ5k/0.jpg)](https://youtu.be/ULSA8R-rJ5k)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ULSA8R-rJ5k" frameborder="0" allowfullscreen></iframe>
+Watch the application in action: [YouTube Video](https://youtu.be/ULSA8R-rJ5k)
 
 ## Features
 
